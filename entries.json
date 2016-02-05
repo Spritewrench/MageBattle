@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0",
+    "name": "assets",
+    "type": null,
+    "children": [
+      {
+        "id": "1",
+        "name": "playerA",
+        "type": "sprite"
+      },
+      {
+        "id": "2",
+        "name": "stage",
+        "type": "sprite"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Main Scene",
+    "type": "scene"
+  },
+  {
+    "id": "4",
+    "name": "Player",
+    "type": "script"
+  }
+]

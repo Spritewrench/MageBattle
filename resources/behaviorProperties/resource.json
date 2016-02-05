@@ -1,0 +1,51 @@
+{
+  "behaviors": {
+    "PlayerBehavior": {
+      "scriptId": "4",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "origVel",
+          "type": "number"
+        },
+        {
+          "name": "jumpCount",
+          "type": "number"
+        },
+        {
+          "name": "hp",
+          "type": "number"
+        },
+        {
+          "name": "playerX",
+          "type": "number"
+        },
+        {
+          "name": "playerY",
+          "type": "number"
+        },
+        {
+          "name": "controllerNum",
+          "type": "number"
+        },
+        {
+          "name": "spawnFreeze",
+          "type": "number"
+        },
+        {
+          "name": "wallHang",
+          "type": "boolean"
+        }
+      ]
+    }
+  }
+}
